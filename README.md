@@ -11,7 +11,7 @@
 </p>
 
  [Take a Tour to My Site](https://soorajsk.tech/).
- <p align="center">   <strong><a href="https://www.instagram.com/soorajsk.tech/">Instagram</a></strong> 
+ <p align="center">   <strong><a href="https://www.instagram.com/soorajsk.tech/">INSTAGRAM</a></strong> 
  <p align="center">   <strong><a href="https://samrajyam.in">MY RP SERVER</a></strong> 
 
 <h3 align="left">Languages and Tools:</h3>
