@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sooraj SK</h1>
 <h3 align="center">From Trivandrum , Kerala , India</h3>
-<h3 align="center"FIVEM & WEB DEVELOPER YOU CAN CONTACT ME FOR ANY WORKS</h3>
+<h3 align="center"FIVEM & WEB DEVELOPER FEEL FREE TO CONTACT ME.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sooraj-sk&label=Profile%20views&color=0e75b6&style=flat" alt="sooraj-sk" /> </p>
 
